@@ -80,16 +80,6 @@
 - **[Edge-Deployed Defect Detection](https://github.com/Sushanth-25)**: Industrial visual inspection pipeline distilling a YOLOv11x segmentation model into YOLOv11m, compiled via TensorRT FP16/ONNX for sub-15ms edge inference across multi-camera streams.
 - **[Saffron Spice Reservation Platform](https://saffron-spice-website.vercel.app/)**: Full-stack MERN application handling table reservations, real-time seat availability, JWT-authenticated user sessions, and administrative scheduling.
 
----
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sushanth-25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushanth-25&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
-</p>
-
----
 
 <p align="center">
   <i>Open to collaborating on Computer Vision pipelines, AI agents, and production systems.</i>
